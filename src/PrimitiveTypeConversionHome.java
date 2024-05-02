@@ -1,4 +1,4 @@
-public class PrimitiveTypeConversionHome {
+/*public class PrimitiveTypeConversionHome {
     public static void main(String[] args){
         int i = 55;
         byte b = (byte)i;
@@ -29,4 +29,4 @@ public class PrimitiveTypeConversionHome {
         System.out.println(c);
 
     }
-}
+}*/
