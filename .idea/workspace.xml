@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3271bffc-d13b-438c-bafe-8ab05ea1ef85" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/src/ders12/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ders12/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ders12/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ders12/Heyvanlar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ders12/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders12evisi2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders12evisi2/Personn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders12evisi2/main12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ders12/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ders12/Lion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,23 +47,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ClassAndObjectsAndConstructorsHome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassandObject.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodsHome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ModifiersDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimitiveTypeConversion2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arraysDemoHOme.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ders10ev.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/acer/IdeaProjects/Projects&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/acer/IdeaProjects/Projects/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ClassAndObjectsAndConstructorsHome.executor": "Run",
+    "Application.ClassandObject.executor": "Run",
+    "Application.MethodsHome.executor": "Run",
+    "Application.ModifiersDemo.executor": "Run",
+    "Application.PrimitiveTypeConversion2.executor": "Run",
+    "Application.arraysDemoHOme.executor": "Run",
+    "Application.ders10ev.executor": "Run",
+    "Application.main12.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/acer/IdeaProjects/Projects",
+    "onboarding.tips.debug.path": "C:/Users/acer/IdeaProjects/Projects/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ders6.MainClass" />
@@ -200,7 +200,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716804395570</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="initial">
+      <option name="closed" value="true" />
+      <created>1717417866765</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717417866765</updated>
+    </task>
+    <task id="LOCAL-00010" summary="initial">
+      <option name="closed" value="true" />
+      <created>1717417919429</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717417919429</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

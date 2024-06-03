@@ -4,12 +4,12 @@ public class Lion extends Animal {
 
     // Konstruktor
     Lion(String name, int age) {
-        super(name, age);  // Superclass konstruktorunu çağırır
+        super(name, age);
     }
 
     // Alternativ konstruktor yalnız adı ilə
     Lion(String name) {
-        super(name);  // Superclass konstruktorunu çağırır
+        super(name);
     }
 
     @Override
