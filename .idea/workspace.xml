@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3271bffc-d13b-438c-bafe-8ab05ea1ef85" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/src/ders13ev/sortedArray_leetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders14ev/evisi1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Application.PrimitiveTypeConversion2.executor": "Run",
     "Application.arraysDemoHOme.executor": "Run",
     "Application.ders10ev.executor": "Run",
+    "Application.evisi1.executor": "Run",
     "Application.main12.executor": "Run",
     "Application.sortedArray_leetcode.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -64,22 +65,9 @@
     "onboarding.tips.debug.path": "C:/Users/acer/IdeaProjects/Projects/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.sortedArray_leetcode">
+  <component name="RunManager" selected="Application.evisi1">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ders6.MainClass" />
-      <module name="Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ders6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodsHome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ders6.MethodsHome" />
       <module name="Projects" />
       <extension name="coverage">
         <pattern>
@@ -117,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="evisi1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ders14ev.evisi1" />
+      <module name="Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ders14ev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sortedArray_leetcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ders13ev.sortedArray_leetcode" />
       <module name="Projects" />
@@ -132,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.evisi1" />
         <item itemvalue="Application.sortedArray_leetcode" />
         <item itemvalue="Application.arraysDemoHOme" />
         <item itemvalue="Application.ModifiersDemo" />
         <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.MethodsHome" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717420730269</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="initial">
+      <option name="closed" value="true" />
+      <created>1717667034815</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717667034815</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -256,6 +265,11 @@
           <url>file://$PROJECT_DIR$/src/ders8/ModifiersDemo.java</url>
           <line>2</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ders13ev/sortedArray_leetcode.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ders5/ClassAndObjectsAndConstructorsHome.java</url>
