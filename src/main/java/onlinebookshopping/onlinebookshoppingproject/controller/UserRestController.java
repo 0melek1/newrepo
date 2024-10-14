@@ -5,7 +5,7 @@ import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import onlinebookshopping.onlinebookshoppingproject.exception.OurException;
 import onlinebookshopping.onlinebookshoppingproject.service.AuthorityService;
-import onlinebookshopping.onlinebookshoppingproject.service.UserService;
+import onlinebookshopping.onlinebookshoppingproject.service.StudentService;
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.*;
 
 public class UserRestController {
 
-    private final UserService service:
+    private final StudentService service:
 
     private final AuthorityService  authorityService;
 
