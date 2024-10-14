@@ -4,10 +4,9 @@ import onlinebookshopping.onlinebookshoppingproject.model.Librarian;
 import onlinebookshopping.onlinebookshoppingproject.repository.LibrarianRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
 
 @RestController
 @RequestMapping("/api/librarian")
@@ -24,4 +23,13 @@ public class LibrarianController {
 
 
     }
+    @PostMapping("/login")
+    public Librarian login(@RequestParam String email, @RequestParam String password) {
+        return librarianService.login(email, password);
+    }
+    @GetMapping
+    public List<Librarian> getAllLibrarians() {
+        return librarianService.getAllLibrarians();
+    }
+
 }

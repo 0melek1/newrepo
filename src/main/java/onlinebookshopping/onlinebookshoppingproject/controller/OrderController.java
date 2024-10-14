@@ -1,4 +1,4 @@
 package onlinebookshopping.onlinebookshoppingproject.controller;
 
-public class StudentRestController {
+public class OrderController {
 }

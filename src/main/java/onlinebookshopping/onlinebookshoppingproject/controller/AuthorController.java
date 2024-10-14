@@ -1,4 +1,4 @@
 package onlinebookshopping.onlinebookshoppingproject.controller;
 
-public class AuthorRestController {
+public class AuthorController {
 }
