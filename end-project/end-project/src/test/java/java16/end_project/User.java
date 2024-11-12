@@ -3,6 +3,8 @@ package java16.end_project;
 
 import jakarta.persistence.*;
 
+import java.util.List;
+
 @Entity
 public class User {
 
