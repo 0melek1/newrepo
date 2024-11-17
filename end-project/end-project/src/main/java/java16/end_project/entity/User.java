@@ -7,7 +7,9 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.OneToMany;
 import org.springframework.data.annotation.Id;
 
-import javax.persistence.GeneratedValue;
+import jakarta.persistence.GeneratedValue;
+import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 public class User {

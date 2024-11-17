@@ -6,7 +6,7 @@ import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import org.springframework.data.annotation.Id;
 
-import javax.persistence.GeneratedValue;
+import jakarta.persistence.GeneratedValue;
 import java.math.BigDecimal;
 
 @Entity
